@@ -1,1 +1,2 @@
 # aplikasi-kelas-jurusan-TI
+IT class Aplication is an aplication for students college. This aplication have functions to give users scedule and assignments from lecture to students. This aplication is make live in college more simple and solve are problem in college.
